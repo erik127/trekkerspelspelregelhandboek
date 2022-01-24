@@ -7,5 +7,10 @@ body {
 }
 
 .wrapper {
-  max-width: 50em
+  max-width: 50em;
+  margin: 3em auto;
+}
+
+h2, h3 {
+  margin-top: 2em;
 }
